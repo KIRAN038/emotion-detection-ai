@@ -18,5 +18,4 @@ def detect_emotion(text):
     # ... (rest of the code)
 
 
-Line 5: def detect_emotion(text): [you] 2 days ago - "Added core detection logic"
-Line 6:     analysis = TextBlob(text) [you] 2 days ago - "Fixed polarity threshold"
+
