@@ -1,3 +1,12 @@
+Displays:
+
+Formatted project description
+
+Usage instructions with emojis 😊 → "Happy"
+
+Example input/output
+
+How to contribute
 
 # emotion.py
 from textblob import TextBlob
