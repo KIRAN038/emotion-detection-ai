@@ -1,10 +1,8 @@
-https://i.imgur.com/JQ1qZyW.png
-Displays:
+# emotion.py
+from textblob import TextBlob
 
-Formatted project description
-
-Usage instructions with emojis 😊 → "Happy"
-
-Example input/output
-
-How to contribute
+def detect_emotion(text):
+    analysis = TextBlob(text)
+    if analysis.sentiment.polarity > 0.3:
+        return "😊 Happy"
+    # ... (rest of the code)
