@@ -1,8 +1,10 @@
-# Navigate to your project folder
-cd /path/to/your/project
+https://i.imgur.com/JQ1qZyW.png
+Displays:
 
-# Initialize Git
-git init
+Formatted project description
 
-# Link to your GitHub repo
-git remote add origin https://github.com/your-username/emotion-detection-ai.git
+Usage instructions with emojis 😊 → "Happy"
+
+Example input/output
+
+How to contribute
